@@ -1,2 +1,3 @@
 # Hello-World
-practice repository
+
+Hi! I'm human.
